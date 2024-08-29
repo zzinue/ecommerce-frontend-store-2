@@ -1,4 +1,4 @@
-/* .shopcategory-banner {
+.shopcategory-banner {
   display: block;
   margin: 30px auto;
   width: 82%;
@@ -111,4 +111,4 @@
     grid-template-columns: 1fr 1fr;
   }
   
-} */
+}
