@@ -1,4 +1,4 @@
-/* .productdisplay {
+.productdisplay {
   display: flex;
   margin: 0px 170px;
 }
@@ -284,4 +284,4 @@ width: 15px;
   .productdisplay-right-category{
     font-size: 16px;
   }
-} */
+}
